@@ -13,5 +13,5 @@ This repo contains the Jupyter notebook used for the [Kaggle Zillow competition]
 **Tech Stack: Pandas, Numpy, Matplotlib, Scikit-learn, Hyperopt, Optuna, XGBoost, LightGBM, CatBoost, Shap**
 
 
-**Note**: Please refer to the [notebook hosted on Kaggle](https://www.kaggle.com/code/devanshm/zillow-end-to-end-ml-workflow-top-250-0-06416/notebook![image](https://user-images.githubusercontent.com/9520975/159796136-e3fabc55-b5b4-4efe-a85c-e421c50fe89d.png)
+**Note**: Please refer to the [notebook hosted on Kaggle](https://www.kaggle.com/code/devanshm/zillow-end-to-end-ml-workflow-top-250-0-06416)
 ) to view the outputs from the notebook cells which are unavailable on the Github version of the notebook.
